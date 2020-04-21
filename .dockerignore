@@ -1,0 +1,6 @@
+.git
+.dockerignore
+Makefile*
+*.md
+!readme*.md
+.zcompdump
